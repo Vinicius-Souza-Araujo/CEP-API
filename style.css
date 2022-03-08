@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(58, 79, 204);
+    color: white;
+}
+.container{
+    margin: 35px auto;
+    padding: 0 20%;
+    
+  
+   
+   
+} 
+h1{
+    font-size: 30px;
+    margin: 0 0 15px 0;
+} 
+.form-control{
+    margin: 0 0 15px 0;
+    
+    
+
+    
+}
